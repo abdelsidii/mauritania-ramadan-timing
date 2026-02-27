@@ -1,32 +1,16 @@
 {
   "name": "mauritania-ramadan-timing",
-<<<<<<< HEAD
-  "version": 1.0.0,
-  "description": "تطبيق ويب لتسجيل توقيت الصلاة في شهر رمضان المبارك لموريتانيا",
-  "main": "index.html",
-  "scripts": {
-    "start": "npx serve . -p 3000",
-    "build": "echo 'Static site deployed'",
-    "deploy": "echo 'Ready for deployment'"
-=======
   "version": "1.0.0",
   "description": "تطبيق ويب لتسجيل توقيت الصلاة في شهر رمضان المبارك لموريتانيا",
+  "main": "index.html",
   "scripts": {
     "dev": "npx serve .",
     "build": "echo 'Static site - no build required'",
     "start": "npx serve ."
->>>>>>> 8ff31dc22b3e90d207d09f9c3e21b97e7ac71566
   },
   "keywords": ["ramadan", "prayer-times", "mauritania", "islamic", "web-app"],
   "author": "abdelsidi",
   "license": "MIT",
-<<<<<<< HEAD
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/abdelsidii/mauritania-ramadan-timing.git"
-  },
-  "homepage": "https://github.com/abdelsidii/mauritania-ramadan-timing#readme",
-=======
   "homepage": "https://github.com/abdelsidii/mauritania-ramadan-timing",
   "repository": {
     "type": "git",
@@ -35,7 +19,6 @@
   "bugs": {
     "url": "https://github.com/abdelsidii/mauritania-ramadan-timing/issues"
   },
->>>>>>> 8ff31dc22b3e90d207d09f9c3e21b97e7ac71566
   "devDependencies": {
     "serve": "^14.2.0"
   }
